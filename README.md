@@ -6,3 +6,4 @@ I am interested in learning to analyze and present data in useful and compelling
 A line I wrote on my local computer
 testing crendentials
 Will this update my readme?
+I think I am getting the hang of this
